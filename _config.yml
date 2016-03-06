@@ -1,8 +1,9 @@
 # Basic
 title: SheldonLi-Blog
 subtitle: 无名的旅人
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: lalala...
+# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+welcome_message: <a target="_blank">Life is like a box of chocolate</a>
+# description: 无名的旅人
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://lishaoyou.com"
@@ -16,7 +17,7 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
@@ -25,7 +26,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -41,7 +42,7 @@ comment:
 # Social
 social:
     # weibo: onevcat
-    # github: onevcat
+    github: sheldonli
     # twitter: onevcat
     # gplus: 107108267983477358170
     mail: lishaoyouqy@126.com
