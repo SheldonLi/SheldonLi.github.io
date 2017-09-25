@@ -31,7 +31,7 @@ chsh -s /bin/zsh
 *.rar打包格式的软件系统自带工具无法解压,BetterZip能弥补这个缺点
 
 5. DaisyDisk:
-硬盘储存空间扫描
+硬盘储存空间扫描,可方便查看每个文件夹占用的空间大小
 
 6. pixave:
 使用系统的"预览"打开照片无法使用'上一张''下一张'功能,pixave导入文件夹后可以支持上下一张.
@@ -65,3 +65,4 @@ chsh -s /bin/zsh
 
 Xcode插件:
 1. 代码洁癖者的福音 - ClangFormat-Xcode
+
