@@ -5,7 +5,7 @@ date: 2016-06-23 17:32:24.000000000 +08:00
 ---
 
 ### 系统强化
-1. Alfred - spotlight的代替工具
+1. Alfred - 万能的入口神器
 ![1.png](https://github.com/SheldonLi/SheldonLi.github.io/blob/master/assets/blogsImage/0623-1.png?raw=true)
 mac系统的spotlight已经很强大,但Alfred可以扩展成更便捷的工具.
 功能包括但不限于!不限于!限于!于!!!
